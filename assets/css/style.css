@@ -330,8 +330,9 @@ hr.hr-dashed{
 .color-07b{
     color: #07bcd5;
 }
+
 .testimonial{
-    padding: 100px;
+    padding:100px 0px!important;
     background-image: linear-gradient(180deg, #f9fbfd 0, #fff);
 }
 
